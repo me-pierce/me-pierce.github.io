@@ -1,6 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53" height="52" viewBox="-10 -10 53 52">
-  <g fill="#05BF85" fill-rule="evenodd">
-    <path d="M20.14 2.13L33 10l-1 2-6.65-3.08a12.99 12.99 0 0 1-3 13.1l1.65 9.3c.07.38-.2.68-.57.68h-.74a.86.86 0 0 1-.81-.68l-1.36-7.71A12.93 12.93 0 0 1 14 25.96v5.34a.7.7 0 0 1-.7.7h-.6a.7.7 0 0 1-.7-.7v-5.34a12.93 12.93 0 0 1-6.5-2.35l-1.37 7.71a.86.86 0 0 1-.81.68h-.73a.56.56 0 0 1-.58-.68l1.64-9.29a13 13 0 0 1 16.49-19.9zM13 24a11 11 0 1 0 0-22 11 11 0 0 0 0 22z"/>
-    <path fill-opacity=".44" d="M13 24a11 11 0 0 0 11-11s-22-.1-22 0a11 11 0 0 0 11 11z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.7051477mm"
+   height="6.7086563mm"
+   viewBox="0 0 8.7051477 6.7086563"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="12.942312"
+     inkscape:cx="19.857349"
+     inkscape:cy="9.5809775"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.352574,0.35420906)">
+    <path
+       style="fill:none;stroke:#013059;stroke-width:0.705148;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 0,6 V 0 L 2,4 4,0 v 6"
+       id="path2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="path2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#013059;stroke-width:0.705148;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 4,0 C 4,0 5.3333434,-0.00366719 6,0 7.4000453,0.00770146 8,0.25464401 8,1 8,1.745356 7.4607576,2.0293995 6,2"
+       id="path3"
+       sodipodi:nodetypes="csac" />
+    <path
+       style="fill:none;stroke:#013059;stroke-width:0.705148;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 4,6 C 4.927991,6.0069 7.072017,5.9917 8,6"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#cf5084;fill-opacity:0.562701;stroke:#013059;stroke-width:0.564999;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 4,4 1.636309,5.415e-4"
+       id="path1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
