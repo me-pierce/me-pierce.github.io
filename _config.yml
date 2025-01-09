@@ -127,6 +127,8 @@ navigation_header:
 #  url: /elements/
 - title: Blog
   url: /blog/
+- title: Poetry
+  url: /poetry/
 #- title: Categories
 #  url: /categories/
 - title: Search
