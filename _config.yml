@@ -69,6 +69,13 @@ collections:
     #feature_text: |
      # Welcome to the blog COMMENTbyMEP: this is the text on the picture banner
     feature_image: "https://picsum.photos/2560/600?image=866"
+  poems:
+    title: Poems # Needed for Siteleaf
+    output: true
+    description: "TBD" # The post list page content
+    #feature_text: |
+     # Welcome to the blog COMMENTbyMEP: this is the text on the picture banner
+    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
 defaults:
@@ -77,6 +84,12 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
   -
     scope:
       path: ""
