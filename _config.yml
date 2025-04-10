@@ -93,7 +93,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "poems"
     values:
       layout: post # Set the default layout for posts
   -
