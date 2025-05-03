@@ -66,7 +66,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "to order my thoughts" # The post list page content
+    description: "to order my brain" # The post list page content
     #feature_text: |
      # Welcome to the blog COMMENTbyMEP: this is the text on the picture banner
     feature_image: "https://picsum.photos/2560/600?image=866"
