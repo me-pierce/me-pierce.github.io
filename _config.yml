@@ -35,9 +35,8 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-#paginate: 1 # jekyll-paginate > items per page
-#paginate_path: blog/page:num # jekyll-paginate > blog page
-#paginate_path: poetry/page:num # jekyll-paginate > blog page
+paginate: 1 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
 #jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 # twitter:
   # username: DavidDarnes # jekyll-seo-tag > Owners twitter username
@@ -64,19 +63,13 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Entries # Needed for Siteleaf
     output: true
-    description: "to order my brain" # The post list page content
+    description: "to order my thoughts" # The post list page content
     #feature_text: |
      # Welcome to the blog COMMENTbyMEP: this is the text on the picture banner
     feature_image: "https://picsum.photos/2560/600?image=866"
-  poems:
-    title: Poems # Needed for Siteleaf
-    output: true
-    description: "TBD" # The post list page content
-    #feature_text: |
-     # Welcome to the blog COMMENTbyMEP: this is the text on the picture banner
-    feature_image: "https://picsum.photos/2560/600?image=866"
+
 
 # 6. Jekyll collections settings
 defaults:
@@ -89,12 +82,6 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "poems"
     values:
       layout: post # Set the default layout for posts
   -
@@ -139,10 +126,8 @@ navigation_header:
   url: /
 #- title: Elements
 #  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Poetry
-  url: /poetry/
+- title: Log
+  url: /log/
 #- title: Categories
 #  url: /categories/
 - title: Search
